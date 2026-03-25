@@ -1,0 +1,45 @@
+
+┌──────────────────────────────┐
+│   Business Stakeholders      │
+│ (Wealth Managers, Analysts)  │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│   Business Requirements      │
+│ - KPIs (Portfolio Value)     │
+│ - Questions (Top Assets)     │
+│ - Reports / Dashboards       │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│   Data Requirements          │
+│ - Entities (Clients, Assets) │
+│ - Metrics (Value, Returns)   │
+│ - Granularity (Daily, Monthly)
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│   Source System Mapping      │
+│ - DB Tables                  │
+│ - APIs                       │
+│ - Files                      │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│   Data Modeling Design       │
+│ - ER Diagram                │
+│ - Fact / Dimension Tables   │
+│ - Relationships             │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│   Solution Design            │
+│ - Fabric (Lakehouse/DW)      │
+│ - Text-to-SQL                │
+│ - RAG / Metadata Layer       │
+└──────────────────────────────┘
