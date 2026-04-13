@@ -35,7 +35,7 @@ We built an **AI-powered platform** that eliminates all three problems by combin
 ## Demo
 
 ### SQL Copilot — Ask questions, get data + charts
-![SQL Copilot Demo](screenshots/SQL Copilot Demo/SQL Copilot Demo SS1.png)
+![SQL Copilot Demo](https://github.com/SejalDS/AI-Powered-Wealth-Management-Platform/blob/main/screenshots/SQL%20Copilot%20Demo/SQL%20Copilot%20Demo%20images.pdf)
 
 **Example:** "Show me the top 5 clients with highest portfolio value"
 - Auto-generates SQL query
@@ -44,7 +44,7 @@ We built an **AI-powered platform** that eliminates all three problems by combin
 - Supports CSV download
 
 ### AI Financial Advisor — Conversational intelligence
-![AI Chatbot Demo](https://github.com/SejalDS/AI-Powered-Wealth-Management-Platform/blob/main/screenshots/AI%20Chatbot%20Demo/AI%20Chatbot%20Demo%20SS1.png)
+![AI Chatbot Demo](https://github.com/SejalDS/AI-Powered-Wealth-Management-Platform/blob/main/screenshots/AI%20Chatbot%20Demo/AI%20Chatbot%20Demo%20images.pdf)
 
 **Example conversation:**
 1. "I am client 42, show me my portfolio" → Fetches real portfolio data
