@@ -3,7 +3,7 @@
 
 ---
 
-## The business problem
+## The Business Problem
 
 Wealth management firms handle thousands of clients, each with unique portfolios spanning stocks, bonds, real estate, commodities, and cash. Wealth managers face three critical challenges:
 
@@ -13,7 +13,7 @@ Wealth management firms handle thousands of clients, each with unique portfolios
 
 3. **Disconnected tools** — Portfolio data, risk analysis, and investment planning live in separate systems, making it impossible to get a unified view in one conversation.
 
-## Our solution
+## Our Solution
 
 We built an **AI-powered platform** that eliminates all three problems by combining:
 
@@ -32,7 +32,7 @@ We built an **AI-powered platform** that eliminates all three problems by combin
 
 ---
 
-## Demo
+## DEMO
 
 ### SQL Copilot — Ask questions, get data + charts
 ![SQL Copilot Demo](https://github.com/SejalDS/AI-Powered-Wealth-Management-Platform/blob/main/screenshots/SQL%20Copilot%20Demo/SQL%20Copilot%20Demo%20images.pdf)
@@ -102,7 +102,7 @@ We built an **AI-powered platform** that eliminates all three problems by combin
 
 ---
 
-## Project structure
+## Project Structure
 
 ```
 WealthManagement/
@@ -135,7 +135,7 @@ WealthManagement/
 
 ---
 
-## Setup instructions
+## Setup Instructions
 
 ### Prerequisites
 - Python 3.9+
@@ -203,7 +203,7 @@ python app.py
 
 ---
 
-## Database schema
+## Database Schema
 
 ### Tables (15,100 total rows)
 | Table | Description | Rows |
@@ -227,7 +227,7 @@ python app.py
 
 ---
 
-## Key features
+## Key Features
 
 - **Natural language to SQL** — Ask questions in English, get database results instantly
 - **Auto-generated visualizations** — Charts and tables created automatically from query results
